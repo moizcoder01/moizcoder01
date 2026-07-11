@@ -11,6 +11,7 @@
   <br/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=moizcoder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
